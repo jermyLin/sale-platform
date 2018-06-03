@@ -1,0 +1,6 @@
+.abc .el-cascader-menu__item.is-active {
+  color: red;
+}
+.input .el-input {
+  width: 140px;
+}
